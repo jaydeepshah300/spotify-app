@@ -73,5 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-#Reference Image for Spotify Search
+
+### Generate Spotify Access Token
+https://developer.spotify.com/console/get-search-item/?q=Muse&type=track%2Cartist&market=US&limit=10&offset=5&include_external=
+
+![image](https://i.ibb.co/cc3HjLW/image.png)
+
+### Reference Image for Spotify Search
 ![image](https://i.ibb.co/fMWkzM9/image.png)
